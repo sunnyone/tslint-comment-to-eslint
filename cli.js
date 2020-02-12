@@ -1,3 +1,5 @@
+#!/usr/bin/env node
+
 const yargs = require("yargs");
 const replace = require("replace-in-file");
 const rulesConverters = require("tslint-to-eslint-config/src/rules/rulesConverters").rulesConverters;
