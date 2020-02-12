@@ -1,6 +1,6 @@
 {
   "name": "tslint-comment-to-eslint",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Replace tslint comments to eslint comments",
   "main": "index.js",
   "repository": "https://github.com/sunnyone/tslint-comment-to-eslint.git",
