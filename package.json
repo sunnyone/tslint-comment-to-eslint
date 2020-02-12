@@ -1,0 +1,18 @@
+{
+  "name": "tslint-comment-to-eslint",
+  "version": "0.0.1",
+  "description": "Replace tslint comments to eslint comments",
+  "main": "index.js",
+  "repository": "https://github.com/sunnyone/tslint-comment-to-eslint.git",
+  "author": "Yoichi Imai <sunnyone41@gmail.com>",
+  "bin": {
+    "tslint-comment-to-eslint": "cli.js"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "replace": "^1.1.5",
+    "replace-in-file": "^5.0.2",
+    "tslint-to-eslint-config": "^0.5.1",
+    "yargs": "^15.1.0"
+  }
+}
